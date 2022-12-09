@@ -1,3 +1,7 @@
+# Credit
+- [TypeScript Project tutorial](https://www.youtube.com/watch?v=jBmrduvKl5w)
+
+
 # New Project
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
